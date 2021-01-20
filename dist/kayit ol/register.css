@@ -1,0 +1,64 @@
+html,
+*{background-color:#A1695A;}
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #311B23;
+}
+
+.form-register {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+
+.form-register .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-register .form-control:focus {
+  z-index: 2;
+}
+.form-register input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-register input[type="password"] {
+  margin-bottom: 0px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.form-register input[type="confirm_password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+.rıkılto{color:#77B9A4;}
+.kayıt1{color:#566146;
+
+}
+a{color:#E7C88D;}
+.yanzı{color:#225854;
+font-family: Verdana;
+}
+
+.buyut{background-color:#E3BE5C ;
+  color: #D84350;
+  padding: 12px;
+  font-size: 26px;
+  box-sizing: border-box;
+  width:300px;
+  font-family: sans-serif;
+}

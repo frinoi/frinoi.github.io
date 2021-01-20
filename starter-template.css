@@ -1,0 +1,62 @@
+/* Modify brand and text color */ 
+body {background-color: #311;}
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text { 
+    color:#A1695A; 
+}
+.navbar-toggler:active
+{outline: none !important;
+  box-shadow: none;
+  border-color:#A5A18A;
+}
+.navbar-custom { 
+    background-color: #F1F0F2; 
+}
+.navbar-toggler-icon {
+    background-image: url("dist/icons/navbar/shield-fill-check.svg");
+  }
+  
+.navbar-toggler {
+    border-color: #A1695A;
+  } 
+  
+  img {
+    max-width: 4%;
+        max-height: auto;
+        width: 4%;
+        height: auto;
+        min-width: 50px;/*Note the px*/
+        min-height: auto;
+  }
+  .nav-link {
+    color: #5D817A !important;
+}
+
+.dropdown-item {
+  color: #0000A0 !important;
+}
+.Dil{color:#A1695A;
+  background-color:#A5A18A;
+
+}
+
+#ex1 {
+  color: #EDEDDD !important;
+}
+#ex1 h1 {
+  color: #BCDA93;
+}
+
+nav.navbar > div.container-fluid > ul > li > p.multilang a:link {
+  text-decoration: none;
+}
+
+nav.navbar > div.container-fluid > ul { background-color: #B6C3C8; }
+.buyuktablo{background-color: #EDEDDD;}
+b{color: #1DB1BF;
+
+
+}
+
+
+        
