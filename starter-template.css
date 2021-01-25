@@ -3,7 +3,10 @@ body {background-color: #311;}
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-text { 
     color:#A1695A; 
+   font-size: x-large;
 }
+
+
 .navbar-toggler:active
 {outline: none !important;
   box-shadow: none;
