@@ -1,15 +1,20 @@
-*{background-color: #DCC874;}
+*{background-color: #97D5A3;}
+.mainbutton{margin-top: auto;
+  float: left;
 
-body{background-color: #DCC874;
+  width: 300px;
+
+  background-color:#b0e0e6;
+
 
 }
-p{color: #B95B4D;
+p{color: #32614C;
 
 }
-h1{ color: #B95B4D;}
-b{color: #494730;}
+h1{ color: #D7492D;}
+b{color: #16282F;}
 li{color:#393C3C;}
-h2{color:#1DB1BF;}
+h2{color:#16282F;}
 
 .liste{position: absolute;
 top:5px ;
