@@ -1,6 +1,11 @@
 *{background-color: #97D5A3;}
+.mainbutton{margin-top: auto;
+  float: left;
 
-body{background-color: #EDE2B3;
+  width: 300px;
+
+  background-color:#b0e0e6;
+
 
 }
 p{color: #32614C;
